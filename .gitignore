@@ -1,3 +1,4 @@
 requirements.txt
 *.txt
 *.jsonl
+*.pyc
